@@ -16,3 +16,4 @@ const seedAll = async () => {
 
     await seedComments();
     console.log('\n----- COMMENTS SEEDED -----\n');
+}
