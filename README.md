@@ -26,23 +26,23 @@ Click on the url here. https://doggy-5a7274df051c.herokuapp.com/.
 
 The application will open on the homepage, which includes any existing blog posts. ![alt-text](./assets/1.png)  
 
-To access the other screens of the application, the user must first sign in. Since the user has not created an account a username and password must be entered in the signup field. picture 2 
+To access the other screens of the application, the user must first sign in. Since the user has not created an account a username and password must be entered in the signup field.  ![alt-text](./assets/2.png)   
 
-Once a username and password have been created, the application immediately opens the user’s Dashboard. Since it's the first time the user has opened the dashboards, any posts that normally would be displayed are not displayed because none have been created yet. The username and password are retained in the application Picture 3 
+Once a username and password have been created, the application immediately opens the user’s Dashboard. Since it's the first time the user has opened the dashboards, any posts that normally would be displayed are not displayed because none have been created yet. The username and password are retained in the application  ![alt-text](./assets/3.png)  
 
-Clicking on homepage option in the navigation bar takes the user to the homepage. Here the user is presented with existing blog posts that include the post title and the date created. Picture 4 
+Clicking on homepage option in the navigation bar takes the user to the homepage. Here the user is presented with existing blog posts that include the post title and the date created.  ![alt-text](./assets/4.png)   
 
-If the user clicks on an existing blog post, they are presented with the post title, contents, post creator’s username, and date created for that post and have the option to leave a comment Picture 5 
+If the user clicks on an existing blog post, they are presented with the post title, contents, post creator’s username, and date created for that post and have the option to leave a comment  ![alt-text](./assets/5.png)  
 
-If the user chooses to leave a comment, once the submit button has been clicked, the comment is saved, and the post is updated to display the comment, the comment creator’s username, and the date created. Picture 6 
+If the user chooses to leave a comment, once the submit button has been clicked, the comment is saved, and the post is updated to display the comment, the comment creator’s username, and the date created.  ![alt-text](./assets/6.png)   
 
-If the user clicks on the dashboard option in the navigation, they taken to the dashboard and presented with any blog posts they have already created and the option to add a new blog post Picture 7 
+If the user clicks on the dashboard option in the navigation, they taken to the dashboard and presented with any blog posts they have already created and the option to add a new blog post ![alt-text](./assets/7png)  
 
-If the user clicks on the button to add a new blog post, they are prompted to enter both a title and contents for the blog post Picture 8 
+If the user clicks on the button to add a new blog post, they are prompted to enter both a title and contents for the blog post  ![alt-text](./assets/8.png)  
 
-If the user clicks on the button to create a new blog post, the title and contents of the post are saved and they are taken back to an updated dashboard with my new blog post Picture 9 
+If the user clicks on the button to create a new blog post, the title and contents of the post are saved and they are taken back to an updated dashboard with my new blog post  ![alt-text](./assets/9.png)  
 
-If the user clicks on one of their existing posts in the dashboard they are able to delete or update they post and are taken back to an updated dashboard Picture 10,11,12 
+If the user clicks on one of their existing posts in the dashboard they are able to delete or update they post and are taken back to an updated dashboard ![alt-text](./assets/10.png)  ![alt-text](./assets/11.png)  ![alt-text](./assets/12.png)  ![alt-text](./assets/13.png) ![alt-text](./assets/14.png)    
 
 The user will be logged out by choosing the log out option, or if they are idle for more than 5 minutes. 
 ## Licenses
