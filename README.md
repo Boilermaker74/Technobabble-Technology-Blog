@@ -36,7 +36,7 @@ If the user clicks on an existing blog post, they are presented with the post ti
 
 If the user chooses to leave a comment, once the submit button has been clicked, the comment is saved, and the post is updated to display the comment, the comment creator’s username, and the date created.  ![alt-text](./assets/6.png)   
 
-If the user clicks on the dashboard option in the navigation, they taken to the dashboard and presented with any blog posts they have already created and the option to add a new blog post ![alt-text](./assets/7png)  
+If the user clicks on the dashboard option in the navigation, they taken to the dashboard and presented with any blog posts they have already created and the option to add a new blog post ![alt-text](./assets/7.png)  
 
 If the user clicks on the button to add a new blog post, they are prompted to enter both a title and contents for the blog post  ![alt-text](./assets/8.png)  
 
