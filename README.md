@@ -79,13 +79,21 @@ It is literally posted on the web. Users can use it online frm all over the worl
 ![Github license](https://img.shields.io/badge/Technology-NodeJs,Mysql,Heroku,Handlebars-blue.svg)
 ## Dependencies
 Bcrypt version 5.0.1
+
 connect-session-sequelize version 7.1.5 
+
 Dotenv version 16.0.3
+
 express  version 4.18.1, 
+
 express-handlebars version 6.0.6, 
+
 express-session version 1.17.3, 
+
 handlebars version 4.7.7, 
+
 mysql2 version 6.3.3, 
+
 sequelize version 6.23.2 
 ## Questions
 Please send your questions by email:  Bradm1492@gmail.com or visit [github/Boilermaker74](https://github.com/Boilermaker74).
