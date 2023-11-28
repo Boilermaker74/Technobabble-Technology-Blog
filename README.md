@@ -1,7 +1,11 @@
 # Technobabble Technology Blog  
   by Bradley Moleterno    ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-did
+Have you ever wanted to sound more intelligent? One way to present yourself as a highly sophisticated, intelligent person is to have a decent working vocabulary and technical knowledge. But learning actual technical ideas can be difficult.  
+
+An easier way is to develop technobabble.  Technobabble is a type of jargon that consists of mostly of buzzwords, esoteric language, or technical jargon. It is mostly nonsense but may rarely contain actual   real information. But man, it sure makes you sound like you know what you are talking about.  
+
+Technobabble Technology Blog is a blog where users can post their short pieces of technobabble. A user may make a post, edit it or delete it if necessary. Other users may read the posts and make comments if they wish. With Technobabble Technology Blog, you will be on your way to presenting yourself as a smarter person. Even if it is only an illusion. 
 ## Deployed Application URL
 https://doggy-5a7274df051c.herokuapp.com
 ## Table of Contents
