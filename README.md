@@ -24,7 +24,7 @@ No installation is required. The application is run from the URL https://doggy-5
 ## How to Use This Application:
 Click on the url here. https://doggy-5a7274df051c.herokuapp.com/. 
 
-The application will open on the homepage, which includes any existing blog posts. Picture1 
+The application will open on the homepage, which includes any existing blog posts. ![alt-text](./assets/1.png)  
 
 To access the other screens of the application, the user must first sign in. Since the user has not created an account a username and password must be entered in the signup field. picture 2 
 
