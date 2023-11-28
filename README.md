@@ -78,9 +78,9 @@ It is literally posted on the web. Users can use it online frm all over the worl
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript-blue.svg)
 ![Github license](https://img.shields.io/badge/Technology-NodeJs,Mysql,Heroku,Handlebars-blue.svg)
 ## Dependencies
-Bcrypt version 5.0.1, 
-connect-session-sequelize version 7.1.5, 
-Dotenv version 16.0.3, 
+Bcrypt version 5.0.1
+connect-session-sequelize version 7.1.5 
+Dotenv version 16.0.3
 express  version 4.18.1, 
 express-handlebars version 6.0.6, 
 express-session version 1.17.3, 
